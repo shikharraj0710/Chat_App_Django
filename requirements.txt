@@ -1,0 +1,7 @@
+django 
+mysqlclient 
+channels
+djangorestframework
+djangorestframework-simplejwt
+daphne
+django-cors-headers
